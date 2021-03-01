@@ -1,10 +1,10 @@
-﻿using Entitiess.Abstract;
+﻿using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
 using System.Text;
 
-namespace DataAccess.Abstract
+namespace Core.DataAccess
 {
     // generic constraint
     // sadece classların gelmesi için filtre yazdık. Sadece db objesi gelebilir ya da IEntity olabilir.

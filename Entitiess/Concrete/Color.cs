@@ -1,9 +1,9 @@
-﻿using Entitiess.Abstract;
+﻿using Core.Entities;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Entitiess.Concrete
+namespace Entities.Concrete
 {
     public class Color : IEntity
     {

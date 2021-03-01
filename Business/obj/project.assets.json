@@ -1692,11 +1692,25 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
+      "Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11"
+        },
+        "compile": {
+          "bin/placeholder/Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Core.dll": {}
+        }
+      },
       "DataAccess/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Entitiess": "1.0.0",
+          "Core": "1.0.0",
+          "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11"
         },
         "compile": {
@@ -1706,14 +1720,17 @@
           "bin/placeholder/DataAccess.dll": {}
         }
       },
-      "Entitiess/1.0.0": {
+      "Entities/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
         "compile": {
-          "bin/placeholder/Entitiess.dll": {}
+          "bin/placeholder/Entities.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Entitiess.dll": {}
+          "bin/placeholder/Entities.dll": {}
         }
       }
     }
@@ -6216,21 +6233,26 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
+    "Core/1.0.0": {
+      "type": "project",
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
     "DataAccess/1.0.0": {
       "type": "project",
       "path": "../DataAccess/DataAccess.csproj",
       "msbuildProject": "../DataAccess/DataAccess.csproj"
     },
-    "Entitiess/1.0.0": {
+    "Entities/1.0.0": {
       "type": "project",
-      "path": "../Entitiess/Entitiess.csproj",
-      "msbuildProject": "../Entitiess/Entitiess.csproj"
+      "path": "../Entitiess/Entities.csproj",
+      "msbuildProject": "../Entitiess/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "DataAccess >= 1.0.0",
-      "Entitiess >= 1.0.0",
+      "Entities >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -6264,8 +6286,8 @@
             "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj": {
               "projectPath": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj"
+            "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj": {
+              "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj"
             }
           }
         }

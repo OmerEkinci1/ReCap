@@ -1692,14 +1692,30 @@
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
       },
-      "Entitiess/1.0.0": {
+      "Core/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore.SqlServer": "3.1.11"
+        },
         "compile": {
-          "bin/placeholder/Entitiess.dll": {}
+          "bin/placeholder/Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/Entitiess.dll": {}
+          "bin/placeholder/Core.dll": {}
+        }
+      },
+      "Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entities.dll": {}
         }
       }
     }
@@ -6202,15 +6218,21 @@
         "system.xml.xmlserializer.nuspec"
       ]
     },
-    "Entitiess/1.0.0": {
+    "Core/1.0.0": {
       "type": "project",
-      "path": "../Entitiess/Entitiess.csproj",
-      "msbuildProject": "../Entitiess/Entitiess.csproj"
+      "path": "../Core/Core.csproj",
+      "msbuildProject": "../Core/Core.csproj"
+    },
+    "Entities/1.0.0": {
+      "type": "project",
+      "path": "../Entitiess/Entities.csproj",
+      "msbuildProject": "../Entitiess/Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "Entitiess >= 1.0.0",
+      "Core >= 1.0.0",
+      "Entities >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.11",
       "NETStandard.Library >= 2.0.3"
     ]
@@ -6242,8 +6264,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj"
+            "D:\\Desktop\\ReCap\\Core\\Core.csproj": {
+              "projectPath": "D:\\Desktop\\ReCap\\Core\\Core.csproj"
+            },
+            "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj": {
+              "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj"
             }
           }
         }
