@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\Demo\\ConsoleUI\\ConsoleUI.csproj": {}
+    "D:\\Desktop\\ReCap\\ConsoleUI\\ConsoleUI.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\Demo\\Business\\Business.csproj": {
+    "D:\\Desktop\\ReCap\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Demo\\Business\\Business.csproj",
+        "projectUniqueName": "D:\\Desktop\\ReCap\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "D:\\Desktop\\Demo\\Business\\Business.csproj",
+        "projectPath": "D:\\Desktop\\ReCap\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\ekinc\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Demo\\Business\\obj\\",
+        "outputPath": "D:\\Desktop\\ReCap\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ekinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Desktop\\Demo\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Desktop\\Demo\\DataAccess\\DataAccess.csproj"
+              "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj"
               },
-              "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj": {
-                "projectPath": "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj"
+              "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj": {
+                "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\Desktop\\Demo\\ConsoleUI\\ConsoleUI.csproj": {
+    "D:\\Desktop\\ReCap\\ConsoleUI\\ConsoleUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Demo\\ConsoleUI\\ConsoleUI.csproj",
+        "projectUniqueName": "D:\\Desktop\\ReCap\\ConsoleUI\\ConsoleUI.csproj",
         "projectName": "ConsoleUI",
-        "projectPath": "D:\\Desktop\\Demo\\ConsoleUI\\ConsoleUI.csproj",
+        "projectPath": "D:\\Desktop\\ReCap\\ConsoleUI\\ConsoleUI.csproj",
         "packagesPath": "C:\\Users\\ekinc\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Demo\\ConsoleUI\\obj\\",
+        "outputPath": "D:\\Desktop\\ReCap\\ConsoleUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ekinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,14 +92,14 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "D:\\Desktop\\Demo\\Business\\Business.csproj": {
-                "projectPath": "D:\\Desktop\\Demo\\Business\\Business.csproj"
+              "D:\\Desktop\\ReCap\\Business\\Business.csproj": {
+                "projectPath": "D:\\Desktop\\ReCap\\Business\\Business.csproj"
               },
-              "D:\\Desktop\\Demo\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Desktop\\Demo\\DataAccess\\DataAccess.csproj"
+              "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj"
               },
-              "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj": {
-                "projectPath": "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj"
+              "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj": {
+                "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj"
               }
             }
           }
@@ -132,14 +132,14 @@
         }
       }
     },
-    "D:\\Desktop\\Demo\\DataAccess\\DataAccess.csproj": {
+    "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Demo\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\Desktop\\Demo\\DataAccess\\DataAccess.csproj",
+        "projectPath": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\ekinc\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Demo\\DataAccess\\obj\\",
+        "outputPath": "D:\\Desktop\\ReCap\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ekinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -156,8 +156,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj": {
-                "projectPath": "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj"
+              "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj": {
+                "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj"
               }
             }
           }
@@ -193,14 +193,14 @@
         }
       }
     },
-    "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj": {
+    "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj",
+        "projectUniqueName": "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj",
         "projectName": "Entitiess",
-        "projectPath": "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj",
+        "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj",
         "packagesPath": "C:\\Users\\ekinc\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\Demo\\Entitiess\\obj\\",
+        "outputPath": "D:\\Desktop\\ReCap\\Entitiess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ekinc\\AppData\\Roaming\\NuGet\\NuGet.Config",

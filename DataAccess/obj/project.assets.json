@@ -201,11 +201,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Demo\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\Desktop\\Demo\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\ekinc\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\Demo\\DataAccess\\obj\\",
+      "outputPath": "D:\\Desktop\\ReCap\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ekinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -222,8 +222,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj": {
-              "projectPath": "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj"
+            "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj": {
+              "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj"
             }
           }
         }

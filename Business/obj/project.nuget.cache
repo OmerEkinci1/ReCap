@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jVudV+qSDvZg1EQvUJshzanCQGgvmT3385JoMHLLpSzEjT+8yPgzqPZAoVVfwpjo1z9p62IGhpLcDqOAZ1c31g==",
+  "dgSpecHash": "Iwr4m+FGlNYV6E4jErc8W9TwpQCCiIozU866m/+QisxG520OSObJUzFKEuZwvUFq6Wf5Ck8QxfkYDI4tJ0PVaQ==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\Demo\\Business\\Business.csproj",
+  "projectFilePath": "D:\\Desktop\\ReCap\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ekinc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ekinc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

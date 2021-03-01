@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IpnHkCYI1tlCWRFzbwQacH1XSgnFiUWHDdkc1QPPBuC8qIbCy56hV4c4dhQO8bHgNyyo30xrQt2j8YawLfClsA==",
+  "dgSpecHash": "WAt+tkWbV0J/QyNrKO5epX7SEop6EttJaeNhsVpfXkQE5D1qkAHz6NQcEwFEKH0XExTlP+W/cWwxnZURREOv7g==",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj",
+  "projectFilePath": "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ekinc\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ekinc\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

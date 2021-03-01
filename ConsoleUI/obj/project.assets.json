@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\Demo\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "D:\\Desktop\\ReCap\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "D:\\Desktop\\Demo\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "D:\\Desktop\\ReCap\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\ekinc\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\Demo\\ConsoleUI\\obj\\",
+      "outputPath": "D:\\Desktop\\ReCap\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ekinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,14 +92,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Desktop\\Demo\\Business\\Business.csproj": {
-              "projectPath": "D:\\Desktop\\Demo\\Business\\Business.csproj"
+            "D:\\Desktop\\ReCap\\Business\\Business.csproj": {
+              "projectPath": "D:\\Desktop\\ReCap\\Business\\Business.csproj"
             },
-            "D:\\Desktop\\Demo\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Desktop\\Demo\\DataAccess\\DataAccess.csproj"
+            "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj": {
-              "projectPath": "D:\\Desktop\\Demo\\Entitiess\\Entitiess.csproj"
+            "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj": {
+              "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entitiess.csproj"
             }
           }
         }
