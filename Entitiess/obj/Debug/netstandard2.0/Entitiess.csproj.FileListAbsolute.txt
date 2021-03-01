@@ -1,0 +1,9 @@
+D:\Desktop\Demo\Entitiess\bin\Debug\netstandard2.0\Entitiess.deps.json
+D:\Desktop\Demo\Entitiess\bin\Debug\netstandard2.0\Entitiess.dll
+D:\Desktop\Demo\Entitiess\bin\Debug\netstandard2.0\Entitiess.pdb
+D:\Desktop\Demo\Entitiess\obj\Debug\netstandard2.0\Entitiess.csprojAssemblyReference.cache
+D:\Desktop\Demo\Entitiess\obj\Debug\netstandard2.0\Entitiess.AssemblyInfoInputs.cache
+D:\Desktop\Demo\Entitiess\obj\Debug\netstandard2.0\Entitiess.AssemblyInfo.cs
+D:\Desktop\Demo\Entitiess\obj\Debug\netstandard2.0\Entitiess.csproj.CoreCompileInputs.cache
+D:\Desktop\Demo\Entitiess\obj\Debug\netstandard2.0\Entitiess.dll
+D:\Desktop\Demo\Entitiess\obj\Debug\netstandard2.0\Entitiess.pdb
