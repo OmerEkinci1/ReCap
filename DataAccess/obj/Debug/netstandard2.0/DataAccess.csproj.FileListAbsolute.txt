@@ -10,3 +10,15 @@ D:\Desktop\Demo\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompil
 D:\Desktop\Demo\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
 D:\Desktop\Demo\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
 D:\Desktop\Demo\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb
+D:\Desktop\ReCap\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\Desktop\ReCap\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Desktop\ReCap\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Desktop\ReCap\DataAccess\bin\Debug\netstandard2.0\Entitiess.dll
+D:\Desktop\ReCap\DataAccess\bin\Debug\netstandard2.0\Entitiess.pdb
+D:\Desktop\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\Desktop\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\Desktop\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\Desktop\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Desktop\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Desktop\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\Desktop\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

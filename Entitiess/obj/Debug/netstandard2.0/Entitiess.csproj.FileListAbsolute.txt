@@ -7,3 +7,11 @@ D:\Desktop\Demo\Entitiess\obj\Debug\netstandard2.0\Entitiess.AssemblyInfo.cs
 D:\Desktop\Demo\Entitiess\obj\Debug\netstandard2.0\Entitiess.csproj.CoreCompileInputs.cache
 D:\Desktop\Demo\Entitiess\obj\Debug\netstandard2.0\Entitiess.dll
 D:\Desktop\Demo\Entitiess\obj\Debug\netstandard2.0\Entitiess.pdb
+D:\Desktop\ReCap\Entitiess\bin\Debug\netstandard2.0\Entitiess.deps.json
+D:\Desktop\ReCap\Entitiess\bin\Debug\netstandard2.0\Entitiess.dll
+D:\Desktop\ReCap\Entitiess\bin\Debug\netstandard2.0\Entitiess.pdb
+D:\Desktop\ReCap\Entitiess\obj\Debug\netstandard2.0\Entitiess.AssemblyInfoInputs.cache
+D:\Desktop\ReCap\Entitiess\obj\Debug\netstandard2.0\Entitiess.AssemblyInfo.cs
+D:\Desktop\ReCap\Entitiess\obj\Debug\netstandard2.0\Entitiess.csproj.CoreCompileInputs.cache
+D:\Desktop\ReCap\Entitiess\obj\Debug\netstandard2.0\Entitiess.dll
+D:\Desktop\ReCap\Entitiess\obj\Debug\netstandard2.0\Entitiess.pdb
