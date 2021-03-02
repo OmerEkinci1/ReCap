@@ -1,4 +1,6 @@
 ﻿using Business.Abstract;
+using Business.Constants;
+using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
@@ -17,29 +19,54 @@ namespace Business.Concrete
             _carDal = carDal;
         }
 
-        public List<Car> GetAll()
+        public IResult Add(Car car)
         {
-            return _carDal.GetAll();
+            if (car.CarName.Length<2)
+            {
+                return new Error(Messages.CarNameInvalid);
+            }
+            _carDal.Add(car);
+            return new Success(Messages.CarAdded);
         }
 
-        public List<Car> GetAllByBrandId(int id)
+        public IResult Delete(Car car)
         {
-            return _carDal.GetAll(c => c.BrandId == id);
+            throw new NotImplementedException();
         }
 
-        public List<Car> GetAllByColorId(int id)
+        public IDataResult<List<Car>> GetAll()
         {
-            return _carDal.GetAll(c => c.ColorId == id);
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(),Messages.CarListed);
         }
 
-        public List<Car> GetByDailyPrice(decimal min, decimal max)
+        public IDataResult<List<Car>> GetAllByBrandId(int id)
         {
-            return _carDal.GetAll(c => c.DailyPrice >= min && c.DailyPrice <= max);
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.BrandId == id), Messages.CarListed);
         }
 
-        public List<CarDetailDto> GetCarDetails()
+        public IDataResult<List<Car>> GetAllByColorId(int id)
         {
-            return _carDal.GetCarDetails();
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.ColorId == id), Messages.CarListed);
+        }
+
+        public IDataResult<List<Car>> GetByDailyPrice(decimal min, decimal max)
+        {
+            return new SuccessDataResult<List<Car>>(_carDal.GetAll(c => c.DailyPrice >= min && c.DailyPrice <= max),Messages.CarListed);
+        }
+
+        public IDataResult<Car> GetById(int carId)
+        {
+            return new SuccessDataResult<Car>(_carDal.Get(c => c.CarId == carId),Messages.CarListed);
+        }
+
+        public IDataResult<List<CarDetailDto>> GetCarDetails()
+        {
+            return new SuccessDataResult<List<CarDetailDto>>(_carDal.GetCarDetails());
+        }
+
+        public IResult Update(Car car)
+        {
+            throw new NotImplementedException();
         }
     }
 }
