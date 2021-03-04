@@ -1,9 +1,12 @@
 ﻿using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.CrossCuttingConcerns.Validation;
 using Core.Utilities.Results;
 using DataAccess.Abstract;
 using Entities.Concrete;
 using Entities.DTOs;
+using FluentValidation;
 using System;
 using System.Collections.Generic;
 using System.Text;
@@ -19,12 +22,11 @@ namespace Business.Concrete
             _carDal = carDal;
         }
 
+        [Validate]
         public IResult Add(Car car)
         {
-            if (car.CarName.Length<2)
-            {
-                return new Error(Messages.CarNameInvalid);
-            }
+            // fluent validation ı burada böyle çağırıyoruz.
+            ValidationTool.Validate(new CarValidator(), car);
             _carDal.Add(car);
             return new Success(Messages.CarAdded);
         }
