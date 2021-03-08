@@ -60,3 +60,14 @@ D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
 D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.dll
 D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Entities.pdb
 D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\FluentValidation.dll
+D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.dll
+D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.WebUtilities.dll
+D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.ObjectPool.dll
+D:\Desktop\ReCap\ConsoleUI\bin\Debug\netcoreapp3.1\Microsoft.Net.Http.Headers.dll
