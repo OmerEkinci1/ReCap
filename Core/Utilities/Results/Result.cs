@@ -18,8 +18,8 @@ namespace Core.Utilities.Results
             success = Success;
         }
 
-        public bool Success => throw new NotImplementedException();
+        public bool Success { get; }
 
-        public string Message => throw new NotImplementedException();
+        public string Message { get; }
     }
 }

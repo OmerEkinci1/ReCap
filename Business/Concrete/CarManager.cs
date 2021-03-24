@@ -51,7 +51,7 @@ namespace Business.Concrete
             throw new NotImplementedException();
         }
 
-        [CacheAspect]
+        //[CacheAspect]
         public IDataResult<List<Car>> GetAll()
         {
             return new SuccessDataResult<List<Car>>(_carDal.GetAll(),Messages.CarListed);
@@ -119,6 +119,11 @@ namespace Business.Concrete
                 return new Error(Messages.BrandLimitExceed);
             }
             return new Success();
+        }
+
+        IResult ICarService.AddTransactionalTest(Car car)
+        {
+            throw new NotImplementedException();
         }
     }
 }

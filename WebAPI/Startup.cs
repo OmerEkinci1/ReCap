@@ -40,6 +40,8 @@ namespace WebAPI
             //AOP
             services.AddControllers();
 
+            // Front-end ten eriþebilmemiz için CORS configurasyonu eklememiz gereklidir.
+            services.AddCors();
             
             var tokenOptions = Configuration.GetSection("TokenOptions").Get<TokenOptions>();
 
@@ -83,6 +85,8 @@ namespace WebAPI
             {
                 app.UseDeveloperExceptionPage();
             }
+            // yukarýda configusrasyon ekledim burayada front-end url ini eklicem böylelikle çalýþýcak burada ilk sýraya eklenmesi önemli
+            app.UseCors(builder=>builder.WithOrigins("http://localhost:4200").AllowAnyHeader());
 
             app.UseHttpsRedirection();
 
