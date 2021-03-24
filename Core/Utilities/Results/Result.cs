@@ -10,12 +10,12 @@ namespace Core.Utilities.Results
         // ikincil constructor ı çağırma imkanımız oluyor.
         public Result(bool success, string message):this(success)
         {
-            message = Message;
+            Message = message;
         }
 
         public Result(bool success)
         {
-            success = Success;
+            Success = success;
         }
 
         public bool Success { get; }
