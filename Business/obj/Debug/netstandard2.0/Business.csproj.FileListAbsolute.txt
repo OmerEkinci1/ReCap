@@ -14,3 +14,19 @@ D:\Desktop\ReCap\Business\bin\Debug\netstandard2.0\Core.dll
 D:\Desktop\ReCap\Business\bin\Debug\netstandard2.0\Entities.dll
 D:\Desktop\ReCap\Business\bin\Debug\netstandard2.0\Entities.pdb
 D:\Desktop\ReCap\Business\bin\Debug\netstandard2.0\Core.pdb
+D:\Program Files\Git Uploads\ReCap\Business\bin\Debug\netstandard2.0\Business.deps.json
+D:\Program Files\Git Uploads\ReCap\Business\bin\Debug\netstandard2.0\Business.dll
+D:\Program Files\Git Uploads\ReCap\Business\bin\Debug\netstandard2.0\Business.pdb
+D:\Program Files\Git Uploads\ReCap\Business\bin\Debug\netstandard2.0\Core.dll
+D:\Program Files\Git Uploads\ReCap\Business\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Program Files\Git Uploads\ReCap\Business\bin\Debug\netstandard2.0\Entities.dll
+D:\Program Files\Git Uploads\ReCap\Business\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Program Files\Git Uploads\ReCap\Business\bin\Debug\netstandard2.0\Entities.pdb
+D:\Program Files\Git Uploads\ReCap\Business\bin\Debug\netstandard2.0\Core.pdb
+D:\Program Files\Git Uploads\ReCap\Business\obj\Debug\netstandard2.0\Business.csprojAssemblyReference.cache
+D:\Program Files\Git Uploads\ReCap\Business\obj\Debug\netstandard2.0\Business.AssemblyInfoInputs.cache
+D:\Program Files\Git Uploads\ReCap\Business\obj\Debug\netstandard2.0\Business.AssemblyInfo.cs
+D:\Program Files\Git Uploads\ReCap\Business\obj\Debug\netstandard2.0\Business.csproj.CoreCompileInputs.cache
+D:\Program Files\Git Uploads\ReCap\Business\obj\Debug\netstandard2.0\Business.csproj.CopyComplete
+D:\Program Files\Git Uploads\ReCap\Business\obj\Debug\netstandard2.0\Business.dll
+D:\Program Files\Git Uploads\ReCap\Business\obj\Debug\netstandard2.0\Business.pdb

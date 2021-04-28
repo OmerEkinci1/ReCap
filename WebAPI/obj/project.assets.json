@@ -6226,11 +6226,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\ReCap\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "D:\\Program Files\\Git Uploads\\ReCap\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "D:\\Desktop\\ReCap\\WebAPI\\WebAPI.csproj",
+      "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\ekinc\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\ReCap\\WebAPI\\obj\\",
+      "outputPath": "D:\\Program Files\\Git Uploads\\ReCap\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ekinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6247,17 +6247,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Desktop\\ReCap\\Business\\Business.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\Business\\Business.csproj"
+            "D:\\Program Files\\Git Uploads\\ReCap\\Business\\Business.csproj": {
+              "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\Business\\Business.csproj"
             },
-            "D:\\Desktop\\ReCap\\Core\\Core.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\Core\\Core.csproj"
+            "D:\\Program Files\\Git Uploads\\ReCap\\Core\\Core.csproj": {
+              "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\Core\\Core.csproj"
             },
-            "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj"
+            "D:\\Program Files\\Git Uploads\\ReCap\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj"
+            "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\Entities.csproj": {
+              "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\Entities.csproj"
             }
           }
         }

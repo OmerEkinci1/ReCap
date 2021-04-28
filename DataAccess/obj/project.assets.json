@@ -6774,11 +6774,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\Program Files\\Git Uploads\\ReCap\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\ekinc\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\ReCap\\DataAccess\\obj\\",
+      "outputPath": "D:\\Program Files\\Git Uploads\\ReCap\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ekinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6795,11 +6795,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\Desktop\\ReCap\\Core\\Core.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\Core\\Core.csproj"
+            "D:\\Program Files\\Git Uploads\\ReCap\\Core\\Core.csproj": {
+              "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\Core\\Core.csproj"
             },
-            "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj"
+            "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\Entities.csproj": {
+              "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\Entities.csproj"
             }
           }
         }

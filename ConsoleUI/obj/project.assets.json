@@ -6193,11 +6193,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\ReCap\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "D:\\Program Files\\Git Uploads\\ReCap\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "D:\\Desktop\\ReCap\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\ekinc\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\ReCap\\ConsoleUI\\obj\\",
+      "outputPath": "D:\\Program Files\\Git Uploads\\ReCap\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ekinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6214,14 +6214,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "D:\\Desktop\\ReCap\\Business\\Business.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\Business\\Business.csproj"
+            "D:\\Program Files\\Git Uploads\\ReCap\\Business\\Business.csproj": {
+              "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\Business\\Business.csproj"
             },
-            "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj"
+            "D:\\Program Files\\Git Uploads\\ReCap\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj"
+            "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\Entities.csproj": {
+              "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\Entities.csproj"
             }
           }
         }

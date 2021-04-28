@@ -7,3 +7,12 @@ D:\Desktop\ReCap\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cac
 D:\Desktop\ReCap\Core\obj\Debug\netstandard2.0\Core.dll
 D:\Desktop\ReCap\Core\obj\Debug\netstandard2.0\Core.pdb
 D:\Desktop\ReCap\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\Program Files\Git Uploads\ReCap\Core\bin\Debug\netstandard2.0\Core.deps.json
+D:\Program Files\Git Uploads\ReCap\Core\bin\Debug\netstandard2.0\Core.dll
+D:\Program Files\Git Uploads\ReCap\Core\bin\Debug\netstandard2.0\Core.pdb
+D:\Program Files\Git Uploads\ReCap\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+D:\Program Files\Git Uploads\ReCap\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+D:\Program Files\Git Uploads\ReCap\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+D:\Program Files\Git Uploads\ReCap\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+D:\Program Files\Git Uploads\ReCap\Core\obj\Debug\netstandard2.0\Core.dll
+D:\Program Files\Git Uploads\ReCap\Core\obj\Debug\netstandard2.0\Core.pdb

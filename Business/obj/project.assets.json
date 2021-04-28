@@ -6839,11 +6839,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\ReCap\\Business\\Business.csproj",
+      "projectUniqueName": "D:\\Program Files\\Git Uploads\\ReCap\\Business\\Business.csproj",
       "projectName": "Business",
-      "projectPath": "D:\\Desktop\\ReCap\\Business\\Business.csproj",
+      "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\Business\\Business.csproj",
       "packagesPath": "C:\\Users\\ekinc\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\ReCap\\Business\\obj\\",
+      "outputPath": "D:\\Program Files\\Git Uploads\\ReCap\\Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ekinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6860,11 +6860,11 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\DataAccess\\DataAccess.csproj"
+            "D:\\Program Files\\Git Uploads\\ReCap\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj": {
-              "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj"
+            "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\Entities.csproj": {
+              "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\Entities.csproj"
             }
           }
         }

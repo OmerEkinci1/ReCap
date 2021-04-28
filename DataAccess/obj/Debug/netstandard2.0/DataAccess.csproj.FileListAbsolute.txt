@@ -24,3 +24,17 @@ D:\Desktop\ReCap\DataAccess\bin\Debug\netstandard2.0\Core.dll
 D:\Desktop\ReCap\DataAccess\bin\Debug\netstandard2.0\Entities.dll
 D:\Desktop\ReCap\DataAccess\bin\Debug\netstandard2.0\Core.pdb
 D:\Desktop\ReCap\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\Program Files\Git Uploads\ReCap\DataAccess\bin\Debug\netstandard2.0\DataAccess.deps.json
+D:\Program Files\Git Uploads\ReCap\DataAccess\bin\Debug\netstandard2.0\DataAccess.dll
+D:\Program Files\Git Uploads\ReCap\DataAccess\bin\Debug\netstandard2.0\DataAccess.pdb
+D:\Program Files\Git Uploads\ReCap\DataAccess\bin\Debug\netstandard2.0\Core.dll
+D:\Program Files\Git Uploads\ReCap\DataAccess\bin\Debug\netstandard2.0\Entities.dll
+D:\Program Files\Git Uploads\ReCap\DataAccess\bin\Debug\netstandard2.0\Core.pdb
+D:\Program Files\Git Uploads\ReCap\DataAccess\bin\Debug\netstandard2.0\Entities.pdb
+D:\Program Files\Git Uploads\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.csprojAssemblyReference.cache
+D:\Program Files\Git Uploads\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfoInputs.cache
+D:\Program Files\Git Uploads\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.AssemblyInfo.cs
+D:\Program Files\Git Uploads\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Program Files\Git Uploads\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.csproj.CopyComplete
+D:\Program Files\Git Uploads\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.dll
+D:\Program Files\Git Uploads\ReCap\DataAccess\obj\Debug\netstandard2.0\DataAccess.pdb

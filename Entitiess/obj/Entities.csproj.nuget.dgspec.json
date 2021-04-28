@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj": {}
+    "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\Entities.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\ReCap\\Core\\Core.csproj": {
+    "D:\\Program Files\\Git Uploads\\ReCap\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\ReCap\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Program Files\\Git Uploads\\ReCap\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "D:\\Desktop\\ReCap\\Core\\Core.csproj",
+        "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\ekinc\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\ReCap\\Core\\obj\\",
+        "outputPath": "D:\\Program Files\\Git Uploads\\ReCap\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ekinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,14 +89,14 @@
         }
       }
     },
-    "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj": {
+    "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj",
+        "projectUniqueName": "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\Desktop\\ReCap\\Entitiess\\Entities.csproj",
+        "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\Entities.csproj",
         "packagesPath": "C:\\Users\\ekinc\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\ReCap\\Entitiess\\obj\\",
+        "outputPath": "D:\\Program Files\\Git Uploads\\ReCap\\Entitiess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ekinc\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -113,8 +113,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\Desktop\\ReCap\\Core\\Core.csproj": {
-                "projectPath": "D:\\Desktop\\ReCap\\Core\\Core.csproj"
+              "D:\\Program Files\\Git Uploads\\ReCap\\Core\\Core.csproj": {
+                "projectPath": "D:\\Program Files\\Git Uploads\\ReCap\\Core\\Core.csproj"
               }
             }
           }
