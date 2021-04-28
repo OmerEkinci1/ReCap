@@ -85,6 +85,8 @@ namespace WebAPI
             {
                 app.UseDeveloperExceptionPage();
             }
+
+            app.ConfigureCustomExceptionMiddleware(); // MÝDDLEWARE EKLEMESÝ ÝLE APIYI GÜVENE ALDIK. APIYE UYGUN OLARAK TRY-CATCH'E ALDIK.
             // yukarýda configusrasyon ekledim burayada front-end url ini eklicem böylelikle çalýþýcak burada ilk sýraya eklenmesi önemli
             app.UseCors(builder=>builder.WithOrigins("http://localhost:4200").AllowAnyHeader());
 
